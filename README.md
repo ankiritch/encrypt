@@ -1,3 +1,3 @@
-# XOR reversed encrypt
+# XOR reversed encryption
 
 reverses and encrypts text. No copyright
