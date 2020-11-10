@@ -1,2 +1,3 @@
-# Crypto
- Encrypts or decrypts text
+# XOR reversed encrypt
+
+reverses and encrypts text. No copyright
